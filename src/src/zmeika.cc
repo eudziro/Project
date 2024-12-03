@@ -1,5 +1,4 @@
-#include "include.h" 
-#include "linmath.h"
+#include "../headers/include.h"
  
 #include <stdlib.h>
 #include <stddef.h>
@@ -73,6 +72,7 @@ int main(void)
     glfwMakeContextCurrent(window);
     glfwSwapInterval(1);
  
+    hello(); // func from module 1;
     // NOTE: OpenGL error checks have been omitted for brevity
  
     GLuint vertex_buffer;
