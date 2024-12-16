@@ -1,5 +1,8 @@
 = TETRIS
 
+:imagesdir: ./image/
+image::image1.png
+
 == Installing
 
 ----
