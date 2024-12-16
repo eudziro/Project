@@ -1,7 +1,7 @@
 = TETRIS
 
 :imagesdir: ./image/
-image::image1.png
+image::image1.png[tetris,300,align="center"]
 
 == Installing
 
